@@ -1,0 +1,1 @@
+0 1 * * * cd /home/edmlove/PycharmProjects/fincollect && source $(/usr/local/bin/pipenv --venv)/bin/activate && python manage.py renew_table
