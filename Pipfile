@@ -6,7 +6,7 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-django = "==3.0.4"
+django = "==3.1.6"
 postgres = "==3.0.*"
 factory-boy = "==2.12.*"
 python-dotenv = "==0.12.*"
